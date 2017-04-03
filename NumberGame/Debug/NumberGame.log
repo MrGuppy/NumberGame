@@ -1,0 +1,4 @@
+﻿  Main.cpp
+f:\aie\assessments\numbergame 2017\numbergame\main.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NumberGame.vcxproj -> F:\AIE\Assessments\NumberGame 2017\Debug\NumberGame.exe
+  NumberGame.vcxproj -> F:\AIE\Assessments\NumberGame 2017\Debug\NumberGame.pdb (Partial PDB)
